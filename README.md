@@ -1,2 +1,2 @@
 # Visual-RC-Onboard
-RC Card Onboard App
+RC Car Onboard App
