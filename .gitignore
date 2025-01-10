@@ -169,3 +169,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# pip cache
+
+# Visual Studio
+.vscode/
+.vscode/*
+.vs/
+.vs/*
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide
+*.sln.ide*
+*.sln.ide*/*
+
